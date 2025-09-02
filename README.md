@@ -4,7 +4,8 @@
 
 ## 🚀 Detecção de EPIs com YOLOv3 via Google Colab
 
-![Imagem de capa do projeto](imagens_rotuladas/exemplo-deteccao.png)
+![Capa do Projeto - Detector de Capacete e Colete com YOLOv3](Detector-de-Capacete-e-Colete-com-YOLOv3.png)
+
 
 ---
 
