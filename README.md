@@ -120,7 +120,7 @@ To run the project on Colab:
 <p>
   <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="left" alt="OpenCV" title="OpenCV" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"/>
-  <img align="left" alt="Darknet" title="Darknet" width="30px" style="padding-right: 10px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.irfandanish.com%2Fobject-detection-yolov4-how-to-train-and-test-yolov4-on-ubuntu-linux-20-04-50f1d3b4e4f1&psig=AOvVaw27h07RCziskxP8aBg7jIFC&ust=1756940465521000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOiI4NGXu48DFQAAAAAdAAAAABAV"/>
+  <img align="left" alt="Darknet" title="Darknet" width="30px" style="padding-right: 10px;" src="https://share.google/images/xgCBqeHummsnjAjYf"/>
   <img align="left" alt="Google Colab" title="Google Colab" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/>
 </p>
 
