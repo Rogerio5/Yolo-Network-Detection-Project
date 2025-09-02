@@ -131,9 +131,7 @@ To run the project on Colab:
 
 ## 👨‍💻 Desenvolvedor / Developer
 
-- [Rogerio](https://github.com/Rogerio5)  
-📍 Agudos, São Paulo, Brasil  
-🗓️ Setembro de 2025
+- [Rogerio](https://github.com/Rogerio5)   
 
 ---
 
