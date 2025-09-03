@@ -123,6 +123,8 @@ To run the project on Colab:
   <img align="left" alt="OpenCV" title="OpenCV" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"/>
   <img align="left" alt="Darknet" title="Darknet" width="30px" style="padding-right: 10px;" src="https://darknetcv.ai/darknet_logo_blue.png"/>
   <img align="left" alt="Google Colab" title="Google Colab" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/>
+  <img align="left" alt="PyTorch" title="PyTorch" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/>
+
 </p>
 
 <br clear="all"/>
