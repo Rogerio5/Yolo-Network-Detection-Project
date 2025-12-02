@@ -4,6 +4,10 @@
 
 ## 🚀 Detecção de EPIs com YOLOv3 via Google Colab
 
+Este projeto foi desenvolvido em Python utilizando Google Colab e Jupyter Notebook.  
+ [Abrir no Google Colab](https://colab.research.google.com/github/Rogerio5/Yolo-Network-Detection-Project/blob/main/Projeto_YOLO_Visao_Computacional.ipynb
+) 
+
 ![Capa do Projeto - Detector de Capacete e Colete com YOLOv3](Detector-de-Capacete-e-Colete-com-YOLOv3.png)
 
 
